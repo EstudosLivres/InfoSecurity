@@ -16,7 +16,7 @@ Estudos sobre algoritmos, técnicas e modelos de segurança da informação.<br>
   - [ ] [RC4](https://github.com/EstudosLivres/InfoSecurity/issues/7)
 
 <br>
-###### [Criptografia assimétrica (de chave pública) ou Assinatura](https://github.com/EstudosLivres/InfoSecurity/issues/8) digital](https://github.com/EstudosLivres/InfoSecurity/issues/8)
+###### [Criptografia assimétrica (de chave pública) ou Assinatura digital](https://github.com/EstudosLivres/InfoSecurity/issues/8)
   - [ ] [DSA](https://github.com/EstudosLivres/InfoSecurity/issues/9)
   - [ ] [ElGamal](https://github.com/EstudosLivres/InfoSecurity/issues/10)
   - [ ] [RSA](https://github.com/EstudosLivres/InfoSecurity/issues/11)
